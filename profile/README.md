@@ -4,7 +4,7 @@ We are a collection of inexpensive open-source tools to conduct ocean acidificat
 
 Find out how to [contribute](https://github.com/Open-Acidification/Open-Acidification.github.io/blob/main/CONTRIBUTING.md) and [good first issues](https://github.com/Open-Acidification/TankController/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
-[https://open-acidification.github.io/](open-acidification.github.io)
+[open-acidification.github.io](https://open-acidification.github.io/)
 
 <!--
 
